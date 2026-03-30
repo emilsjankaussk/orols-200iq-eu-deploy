@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Placeholder people banner</title>
+  <desc id="desc">Wide placeholder illustration for sections where people photos are temporarily hidden.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#091521"/>
+      <stop offset="55%" stop-color="#11314D"/>
+      <stop offset="100%" stop-color="#0077B6"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#48CAE4"/>
+      <stop offset="100%" stop-color="#90E0EF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <circle cx="1360" cy="190" r="130" fill="#ffffff" opacity="0.07"/>
+  <circle cx="220" cy="780" r="180" fill="#ffffff" opacity="0.05"/>
+  <path d="M0 690c140-72 240-95 347-95c119 0 208 31 295 31c113 0 215-79 349-79c116 0 190 43 296 43c93 0 173-27 313-87v397H0z" fill="#0D1B2A" opacity="0.6"/>
+  <circle cx="630" cy="352" r="92" fill="url(#accent)"/>
+  <circle cx="970" cy="332" r="82" fill="url(#accent)" opacity="0.85"/>
+  <path d="M458 676c0-116 81-189 176-189c91 0 171 73 171 189v46H458z" fill="#E6F8FC"/>
+  <path d="M835 654c0-100 70-164 153-164c77 0 144 64 144 164v40H835z" fill="#D4F2F8" opacity="0.92"/>
+  <path d="M290 746h1020" stroke="#ffffff" stroke-opacity="0.3" stroke-width="12" stroke-linecap="round"/>
+  <text x="800" y="150" fill="#E6F8FC" font-family="Arial, sans-serif" font-size="40" font-weight="700" letter-spacing="8" text-anchor="middle">
+    OROLS
+  </text>
+  <text x="800" y="208" fill="#E6F8FC" font-family="Arial, sans-serif" font-size="24" font-weight="600" letter-spacing="4" text-anchor="middle" opacity="0.9">
+    FOTOGRĀFIJU VIETTURIS
+  </text>
+</svg>
